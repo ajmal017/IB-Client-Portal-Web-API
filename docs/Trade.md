@@ -1,0 +1,29 @@
+# IO.Swagger.Model.Trade
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**ExecutionId** | **string** |  | [optional] 
+**Symbol** | **string** |  | [optional] 
+**Side** | **string** |  | [optional] 
+**OrderDescription** | **string** |  | [optional] 
+**TradeTime** | **string** |  | [optional] 
+**TradeTimeR** | **decimal?** |  | [optional] 
+**Size** | **string** |  | [optional] 
+**Price** | **string** |  | [optional] 
+**Submitter** | **string** |  | [optional] 
+**Exchange** | **string** |  | [optional] 
+**Comission** | **decimal?** |  | [optional] 
+**NetAmount** | **decimal?** |  | [optional] 
+**Account** | **string** |  | [optional] 
+**CompanyName** | **string** |  | [optional] 
+**ContractDescription1** | **string** |  | [optional] 
+**SecType** | **string** |  | [optional] 
+**Conidex** | **string** |  | [optional] 
+**Position** | **string** |  | [optional] 
+**ClearingId** | **string** |  | [optional] 
+**ClearingName** | **string** |  | [optional] 
+**OrderRef** | **string** | User defined string used to identify the order. Value is set using \&quot;cOID\&quot; field while placing an order. | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
